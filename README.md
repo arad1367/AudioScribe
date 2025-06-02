@@ -6,7 +6,7 @@
 [![University](https://img.shields.io/badge/University-00205B?style=for-the-badge&logo=academia&logoColor=white)](https://www.uni.li/pejman.ebrahimi?set_language=en)
 
 <div align="center">
-  <img src="IMG/Logo.png" alt="AudioScribe Logo" width="400"/>
+  <img src="IMG/Logo.png" alt="AudioScribe Logo"/>
   <h3>AI-Powered Audio Transcription Tool</h3>
   <p>Transform your audio files into accurate text transcriptions using OpenAI Whisper</p>
 </div>
