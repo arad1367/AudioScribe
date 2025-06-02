@@ -111,9 +111,9 @@ Here's an example of AudioScribe in action:
 ### Screenshots
 
 <div align="center">
-  <img src="IMG/T1.png" alt="Transcription Example 1" width="300"/>
-  <img src="IMG/T2.png" alt="Transcription Example 2" width="300"/>
-  <img src="IMG/T3.png" alt="Transcription Example 3" width="300"/>
+  <img src="IMG/T1.png" alt="Transcription Example 1" />
+  <img src="IMG/T2.png" alt="Transcription Example 2" />
+  <img src="IMG/T3.png" alt="Transcription Example 3" />
 </div>
 
 ### Complete Example
