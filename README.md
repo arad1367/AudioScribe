@@ -46,7 +46,7 @@ AudioScribe is a powerful Python application that leverages OpenAI's Whisper mod
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AudioScribe.git
+git clone https://github.com/arad1367/AudioScribe.git
 cd AudioScribe
 ```
 
